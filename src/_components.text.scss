@@ -1,0 +1,39 @@
+.c-spaceship-text {
+    font-family: $spaceship-font-family;
+    color: inherit;
+}
+
+.c-spaceship-text--small {
+  color: $spaceship-color-neutral;
+  font-size: $spaceship-font-size-small;
+  font-weight: $spaceship-font-weight-normal;
+  line-height: $spaceship-line-height-small;
+}
+
+.c-spaceship-text--body {
+  color: $spaceship-color-text;
+  font-size: $spaceship-font-size-body;
+  font-weight: $spaceship-font-weight-normal;
+  line-height: $spaceship-line-height-normal;
+}
+
+.c-spaceship-text--title {
+  color: $spaceship-color-text;
+  font-size: $spaceship-font-size-title;
+  font-weight: $spaceship-font-weight-normal;
+  line-height: $spaceship-line-height-medium;
+}
+
+.c-spaceship-text--subheader {
+  color: $spaceship-color-text;
+  font-size: $spaceship-font-size-subheader;
+  font-weight: $spaceship-font-weight-normal;
+  line-height: $spaceship-line-height-large;
+}
+
+.c-spaceship-text--header {
+  color: $spaceship-color-text;
+  font-size: $spaceship-font-size-header;
+  font-weight: $spaceship-font-weight-normal;
+  line-height: $spaceship-line-height-large;
+}
